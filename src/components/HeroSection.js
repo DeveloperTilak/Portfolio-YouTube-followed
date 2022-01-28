@@ -65,9 +65,7 @@ export default function HeroSection() {
                 <img src={HeroImg} alt=" " />
             </div>
             <div className='hero__info'>
-                <PText>  I am working as a freelance web designer and developer for 4
-              years. I love to design and make new web experiences for the
-              people. </PText>
+                <PText>  I am awdhesh a web developer and freelancer contact me if you need any Landing page of your business. </PText>
               <Button btnText='projects' btnLink='/projects'/>
             </div>
 
